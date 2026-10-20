@@ -16,3 +16,5 @@ This fictional class project explores how study habits may relate to students' w
 
 ## Privacy reminder
 Do not upload personal records or identifiable participant data.
+## Next step
+The team will review the project plan and improve the sample survey questions before the class activity.
